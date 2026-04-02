@@ -24,9 +24,6 @@ I created this project to improve my understanding of JavaScript, especially how
 ##  Screenshot
 ![To Do Website](Screenshot.png.png)
 
-##  Live Demo
-(Will be added after deployment on AWS EC2)
-
 ---
 
 💡 This is one of my beginner projects, and I plan to improve it further by adding features like task editing, local storage, and better UI.
